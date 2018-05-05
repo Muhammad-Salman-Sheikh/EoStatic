@@ -24,7 +24,7 @@ For builtin functions see the WikiPage on [Built-ins](https://github.com/Muhamma
 
 # Examples :
 
-For examples see the example page (under development)
+For examples see the WikiPage on  [examples](https://github.com/Muhammad-Salman-Sheikh/EoStatic/wiki/Examples) 
 
 ---
 
