@@ -1,6 +1,6 @@
 # EoStatic :
 
-This is the **development** page for the golfing language __EoStatic__. The language is currently under development.
+This is the **development** page for the golfing language __EoStatic__. The language is currently under development. [EoStatic page](https://github.com/Muhammad-Salman-Sheikh/EoStatic/wiki)
 
 ---
 
@@ -12,7 +12,13 @@ The language itself is written in _Python 3_ which in itself is a rather easy la
 
 # Syntax :
 
-For syntax see the WikiPage (under development)
+For syntax see the WikiPage on [Syntax](https://github.com/Muhammad-Salman-Sheikh/EoStatic/wiki/Syntax-Page)
+
+---
+
+# Built-ins :
+
+For builtin functions see the WikiPage on [Built-ins](https://github.com/Muhammad-Salman-Sheikh/EoStatic/wiki/Built-ins)
 
 ---
 
