@@ -1,7 +1,7 @@
 # This is a Work in Progress (WIP)
 
 '''
-This is the erorr handling for special cases in which we want to exit via `except`
+	This is the erorr handling for special cases in which we want to exit via `except`
 '''
 def Reserror(message):
 	raise ValueError(message)
