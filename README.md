@@ -12,7 +12,7 @@ The language itself is written in _Python 3_ which in itself is a rather easy la
 
 # Syntax :
 
-For syntax see the Wiki Page (under development)
+For syntax see the WikiPage (under development)
 
 ---
 
