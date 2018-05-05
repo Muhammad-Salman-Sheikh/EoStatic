@@ -28,3 +28,8 @@ For syntax see the Wiki Page (under devolopment)
 For examples see the example page (under devlopment)
 
 ---
+
+
+# Issues :
+
+For by *bug reports* and other related issues , use the [issues page](https://github.com/Muhammad-Salman-Sheikh/EoStatic/issues)
